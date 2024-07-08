@@ -1,0 +1,1 @@
+modal deploy --name project_weekly_training training_pipeline.py
